@@ -1,1 +1,6 @@
+# Ignore compiled JavaScript files
+*.js
+*.js.map
+dist/
+build/
 node_modules/
